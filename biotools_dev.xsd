@@ -416,7 +416,10 @@
 							<xs:enumeration value="C"/>
 							<xs:enumeration value="C#"/>
 							<xs:enumeration value="C++"/>
+							<xs:enumeration value="Clojure"/>
+							<xs:enumeration value="CMake"/>
 							<xs:enumeration value="COBOL"/>
+							<xs:enumeration value="Cython"/>
 							<xs:enumeration value="ColdFusion"/>
 							<xs:enumeration value="CWL"/>
 							<xs:enumeration value="D"/>
@@ -424,14 +427,18 @@
 							<xs:enumeration value="Dylan"/>
 							<xs:enumeration value="Eiffel"/>
 							<xs:enumeration value="Elm"/>
+							<xs:enumeration value="F#"/>
 							<xs:enumeration value="Forth"/>
 							<xs:enumeration value="Fortran"/>
+							<xs:enumeration value="Go"/>
 							<xs:enumeration value="Groovy"/>
 							<xs:enumeration value="Haskell"/>
 							<xs:enumeration value="Icarus"/>
 							<xs:enumeration value="Java"/>
 							<xs:enumeration value="JavaScript"/>
 							<xs:enumeration value="Julia"/>
+							<xs:enumeration value="Jython"/>
+							<xs:enumeration value="Jypyter Notebook"/>
 							<xs:enumeration value="JSP"/>
 							<xs:enumeration value="LabVIEW"/>
 							<xs:enumeration value="Lisp"/>
@@ -440,6 +447,7 @@
 							<xs:enumeration value="Mathematica"/>
 							<xs:enumeration value="MATLAB"/>
 							<xs:enumeration value="MLXTRAN"/>
+							<xs:enumeration value="Nextflow"/>
 							<xs:enumeration value="NMTRAN"/>
 							<xs:enumeration value="OCaml"/>
 							<xs:enumeration value="Pascal"/>
@@ -448,10 +456,13 @@
 							<xs:enumeration value="Prolog"/>
 							<xs:enumeration value="PyMOL"/>
 							<xs:enumeration value="Python"/>
+							<xs:enumeration value="Q#"/>
+							<xs:enumeration value="QCL"/>
 							<xs:enumeration value="R"/>
 							<xs:enumeration value="Racket"/>
 							<xs:enumeration value="REXX"/>
 							<xs:enumeration value="Ruby"/>
+							<xs:enumeration value="Rust"/>
 							<xs:enumeration value="SAS"/>
 							<xs:enumeration value="Scala"/>
 							<xs:enumeration value="Scheme"/>
@@ -462,6 +473,7 @@
 							<xs:enumeration value="Verilog"/>
 							<xs:enumeration value="VHDL"/>
 							<xs:enumeration value="Visual Basic"/>
+							<xs:enumeration value="Vue"/>
 							<xs:enumeration value="XAML"/>
 							<xs:enumeration value="Other"/>
 						</xs:restriction>
